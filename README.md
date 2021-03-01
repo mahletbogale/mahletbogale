@@ -3,5 +3,5 @@
   
   
   <h1>Mahlet Bogale</h1>
-  <h2>Software Engineer>
+  <h2>Software Engineer </h2>
   <p>As a Software Engineer, I have built a number of applications such as flash Cards, Menu app, Todo List, and A Shopping Cart which is a full-stack app. As a SharePoint developer in Bemanda I have built list and libraries and built a proposal forms using Power App based on the list I built. As a developer, I have learned how to solve different problems and how to address different User’s requirements. </p>
